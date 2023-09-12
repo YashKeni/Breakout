@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fab32202c19f58c418d24e2d62d5e162
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Robo Girls
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 38c0ca31abeaace4ea773fa553c7310a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

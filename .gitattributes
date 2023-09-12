@@ -1,5 +1,6 @@
-Assets\Assets Imported\Classical_city\Textures\ground.tif filter=lfs diff=lfs merge=lfs -text
-Assets\Assets Imported\Classical_city\Textures\props_a.tif filter=lfs diff=lfs merge=lfs -text
-Assets\Assets Imported\Classical_city\Textures\props_b.tif filter=lfs diff=lfs merge=lfs -text
-Assets\Assets Imported\Classical_city\Textures\vegetation_b.tif filter=lfs diff=lfs merge=lfs -text
-Assets\Assets Imported\Garage\Source\Textures\Garage Blue.psd filter=lfs diff=lfs merge=lfs -text
+Assets\AssetsImported\Classical_city\Textures\building_a.tif filter=lfs diff=lfs merge=lfs -text
+Assets\AssetsImported\Classical_city\Textures\ground.tif filter=lfs diff=lfs merge=lfs -text
+Assets\AssetsImported\Classical_city\Textures\props_a.tif filter=lfs diff=lfs merge=lfs -text
+Assets\AssetsImported\Classical_city\Textures\props_b.tif filter=lfs diff=lfs merge=lfs -text
+Assets\AssetsImported\Classical_city\Textures\vegetation_b.tif filter=lfs diff=lfs merge=lfs -text
+Assets\AssetsImported\Garage\Source\Textures\Garage Blue.psd filter=lfs diff=lfs merge=lfs -text
